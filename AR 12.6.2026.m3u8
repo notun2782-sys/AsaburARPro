@@ -1,0 +1,616 @@
+#EXTM3U
+
+
+# Source: SRC-ID:eb25061146813829500ee806
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Live",Football World Cup 2026 (ASABUR)
+http://103.151.61.12/T-Sports.kutta/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 HD" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 HD
+http://mxonlive.xyz/live/xap/443952.m3u8?e=1781245087&token=1f10e6b3ec4f472906517e069c0c14b5cd40b17d1a293ccb12de51ac8f2b4a46
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 1 FHD" tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="FIFA World Cup 2026",AR: BeIN Sports Max 1 FHD
+http://mxonlive.xyz/live/xap/443950.m3u8?e=1781245087&token=be0cc9675e26e0c00a894c49e2f5fb188a2e3bbceac7dfddcb39211ac9e302e9
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA World Cup 2026 FHD 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FIFA World Cup 2026 FHD 01
+http://mxonlive.xyz/live/xap/443982.m3u8?e=1781245087&token=48a37ea02c357b97b53199a91a8e698d8cf356b530ef3dee7c00736fb6ae4751
+
+#EXTINF:-1 tvg-id="" tvg-name="FIFA World Cup 2026 FHD 02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FIFA World Cup 2026 FHD 02
+http://mxonlive.xyz/live/xap/443983.m3u8?e=1781245087&token=96e4524fd7b56bda8f14057789670eddea9ddc2dceb85c5f32f9afb8b8e22ced
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+<a href="111"></a>http://103.179.25.147:8181/T-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://aponn.vercel.app/iptv.m3u
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (7)
+https://sm-monirul.top/RZ/live/edge1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Live",Football World Cup 2026 (ASABUR)
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Live",Football World Cup 2026 (ASABUR)
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Live Sports (ASABUR)
+http://198.195.239.50:8095/Eurosport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD (ASABUR)
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",DD Sports 2.0 (ASABUR)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Nagorik TV (ASABUR)
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Willow (ASABUR)
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports",Sharq Game TV (ASABUR)
+https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
+
+# Source: SRC-ID:8a0a955eed047000f93213bc
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla",Ekattor TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="Bangla",Channel 24 (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="Bangla",Independent TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangla",Jamuna TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="Bangla",ATN News (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangla",ATN Bangla (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangla",NTV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangla",BanglaVision (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla",Ekushey TV (ASABUR)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangla",Channel I (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla",Deepto TV (ASABUR)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangla",Atn Bangla (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangla",Ekushey TV (ASABUR)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangla",Ntv (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/1200px-Logo_of_Deepto_TV.svg.png" group-title="Bangla",Deepto Tv Backup (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangla",Jamuna Tv (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Bangla",Enter10 Bangla (ASABUR)
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Bangla",News18 Bangla (ASABUR)
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Saudi Quran (ASABUR)
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Religious",Madina Live (ASABUR)
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi (ASABUR)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love Nature (ASABUR)
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD (ASABUR)
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Music",ATN Music (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Live",Deshi TV HD (ASABUR)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg" group-title="Bangla",ATN BANGLA UK (ASABUR)
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangla",ATN Bangla UK (ASABUR)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangla",Deepto TV (ASABUR)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla (ASABUR)
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Dd%20Bangla.png" group-title="Bangla",DD Bangla (ASABUR)
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ABP Ananda (ASABUR)
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Bangla",Star Jalsha HD (ASABUR)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg" group-title="Bangla",ABP Ananda (ASABUR)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/1e4516fa-023a-4807-8e3d-479b346b4a62/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg" group-title="Bangla",Bangla Jago (ASABUR)
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg" group-title="Bangla",DD Bangla (ASABUR)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg" group-title="Bangla",R Plus News (ASABUR)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Bangla",TV9 Bangla (ASABUR)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Bangla",Zee 24 Ghanta (ASABUR)
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png" group-title="Music",9xM (ASABUR)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KxC4ccD0/Casio-opening-bot-logo-4k-scaled.png" group-title="Music",B>U Music (ASABUR)
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="Indian",B4U Movies (ASABUR)
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/9x_media.png" group-title="Indian",MU | 9XM (ASABUR)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/9f1a3d57-4134-4f4c-95ea-2cb142ac63f8/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",#KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc (ASABUR)
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Duck TV (ASABUR)
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",Jungle Book (ASABUR)
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",PBS Kids (ASABUR)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Rongeen TV (ASABUR)
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Wild Life (ASABUR)
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" group-title="Documentary",ACCU WEATHER (ASABUR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="" group-title="Live",#KODIPROP:inputstream.adaptive.license_key=2f4052e0dcb740b28b8fd49ee4ecd35a:e2e0d07b2767e46581c82cf87614e750 (ASABUR)
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560404/index.mpd
+#EXTINF:-1 tvg-logo="https://is.gd/imZMIp" group-title="News",DW NEWS (ASABUR)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/ywX5PG" group-title="News",CNN NEWS (ASABUR)
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/ih6x8j" group-title="News",NDTV NEWS (ASABUR)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="News",BBC News (ASABUR)
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (ASABUR)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="News",RT News (EN) 🛜 (ASABUR)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="News",RTNEWS GLOBAL (ASABUR)
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="News",Aljazeera HD Backup 🛜v (ASABUR)
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="News",Breaking News (ASABUR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="News",CNA News (ASABUR)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="News",NDTV English (ASABUR)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="News",NDTV Hindi (ASABUR)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg" group-title="News",News Max 2 (ASABUR)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="Bangla",Maasranga TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="Bangla",NTV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="Bangla",NTV UK (ASABUR)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Bangla",SATV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangla",Deepto TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="Bangla",Mohona TV (ASABUR)
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png" group-title="Bangla",Desh TV (ASABUR)
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangla",Bangla TV Europe (ASABUR)
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla",Channel 9 (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="Bangla",Green TV (ASABUR)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="Bangla",Channel S UK HD (ASABUR)
+http://103.161.153.165:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co.com/nPXPTPK" group-title="Bangla",Srk Tv (ASABUR)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="Bangla",Channel S HD (ASABUR)
+http://103.229.254.25:7001/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="Bangla",Somoy TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="Bangla",Independent TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png" group-title="Bangla",Ekattor TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="Bangla",ATN News (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Channel%201.png" group-title="Bangla",Channel 1 News 4K (ASABUR)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg" group-title="Bangla",Star News (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="Bangla",Channel 24 (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="Bangla",News 24 (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="Bangla",DBC News (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="News",TBN 24 USA (ASABUR)
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Music Bangla (ASABUR)
+http://vmi3039524.contaboserver.net:5050/music/index.m3u8
+#EXTINF:-1 tvg-logo="://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Bangla",Bengla Beats (ASABUR)
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Channel-16 (ASABUR)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Bengla (ASABUR)
+https://poweredbyjibon.myziboplay.xyz/zibo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Religious",Peace TV Bangla (ASABUR)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Religious",Peace TV English (ASABUR)
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Religious",Peace TV Urdu (ASABUR)
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f71f649abc51984f09076ef6ee5c0d0c" group-title="Live",RTV Islam (ASABUR)
+https://tvsen6.aynascope.net/rtvislam/index.m3u8?e=1762417832&u=5448cf91-5746-4e78-a357-d45dca5c1ab9&token=9aeaf35d6650b5eab457a136bd251921
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Religious",ATN Islamic (ASABUR)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",Islamic TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Religious",Madani TV (ASABUR)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Religious",AL Sunnah TV (ASABUR)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",EWTN TV (ASABUR)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",God TV (ASABUR)
+https://hlsb-us.god.tv/GODTV/USA-480.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Indian",Hare Krsna (ASABUR)
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="Religious",Arihant TV (ASABUR)
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",G-Serise (ASABUR)
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg" group-title="Bangla",Sony Aath (ASABUR)
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mAathStar%20Jalsha.png" group-title="Bangla",Star Jalsha (ASABUR)
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" group-title="Bangla",Zee Bangla HD (ASABUR)
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="Bangla",Colors Bangla (ASABUR)
+http://103.229.254.25:7001/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="Bangla",Sun Bangla HD (ASABUR)
+http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",R Plus Gold (ASABUR)
+https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
+#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQmW5aAA-8mIeuB88P0SUdrjBBSFEHQ2ZXiddKtVfnJCQ.png" group-title="Bangla",AAKASH AATH (ASABUR)
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Bangla Movies (ASABUR)
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Movies",Jalsha Movies (ASABUR)
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Movies",Jalsha Movies HD (ASABUR)
+http://103.161.153.165:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png" group-title="Movies",Zee Bangla Cinema (ASABUR)
+http://103.161.153.165:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="Movies",Colors Bangla Cinema (ASABUR)
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="Movies",Colors Bangla Cinema (ASABUR)
+http://103.229.254.25:7001/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Movies",Khushboo Bangla (ASABUR)
+https://cdn3.pishow.tv/live/283/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Bangla",Sangeet Bangla (ASABUR)
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",R Plus News (ASABUR)
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News (ASABUR)
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png" group-title="Bangla",Kolkata TV (ASABUR)
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Bangla",TV9 Bangla (ASABUR)
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",R Bangla (ASABUR)
+https://tvsen5.aynaott.com/R_Bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",NK (ASABUR)
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",NK TV Bangla (ASABUR)
+https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png" group-title="Indian",Sony TV (ASABUR)
+http://103.161.153.165:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png" group-title="Indian",Sony TV HD (ASABUR)
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Sony Kal (ASABUR)
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg" group-title="Indian",Sony Sab (ASABUR)
+http://103.161.153.165:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Sony Pal (ASABUR)
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Indian",Star Plus (ASABUR)
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Indian",Colors (ASABUR)
+http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Indian",Colors HD (ASABUR)
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Indian",Zee TV (ASABUR)
+http://103.161.153.165:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" group-title="Indian",Zee TV HD (ASABUR)
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Indian",Zee Anmol TV (ASABUR)
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="Indian",And TV HD (ASABUR)
+http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Big Magic (ASABUR)
+http://103.175.73.12:8080/live/13/13_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",The Movie Club (ASABUR)
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",South Station 2 (ASABUR)
+http://xtv.ooo:8080/danyear12/am8091danyear98
+#EXTINF:-1 tvg-logo="" group-title="Indian",South Station 3 (ASABUR)
+http://xtv.ooo:8080/danyear12/am809100/263386
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png" group-title="Movies",Sony Max (ASABUR)
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png" group-title="Movies",Sony Max (ASABUR)
+http://103.161.153.165:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg" group-title="Movies",Sony Max 2 HD (ASABUR)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" group-title="Movies",Zee Cinema HD (ASABUR)
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Indian",Zee Action (ASABUR)
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" group-title="Movies",Zee Action (ASABUR)
+http://103.161.153.165:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Indian",Zee Anmol Cinema (ASABUR)
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Movies",Star Gold (ASABUR)
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" group-title="Movies",Star Gold HD (ASABUR)
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg" group-title="Movies",Star Gold Select HD (ASABUR)
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png" group-title="Movies",Colors Cineplex (ASABUR)
+http://198.195.239.50:8095/ColorsCineplex/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png" group-title="Movies",Rishtey Cinaplax (ASABUR)
+http://172.105.123.238:18002/play/a015
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png" group-title="Movies",And Pictures (ASABUR)
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",UTV Gold (ASABUR)
+http://103.161.153.165:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",UTV Classic (ASABUR)
+http://103.161.153.165:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",UTV Pictures (ASABUR)
+http://103.161.153.165:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Indian",B4U Kadak (ASABUR)
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Indian",Sheemaroo Bollywood (ASABUR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Indian",Joo Music (ASABUR)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Indian",Goldmines (ASABUR)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Goldmines Bollywood (ASABUR)
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Goldmines Movies (ASABUR)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Goldmines Movies 2 (ASABUR)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Goldminnes Thtills (ASABUR)
+http://172.105.123.238:18002/play/a01h
+#EXTINF:-1 tvg-logo="" group-title="Live",Goldminnes Action (ASABUR)
+http://202.164.50.194:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Indian",Manoranjan Movies (ASABUR)
+http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Indian",Manoranjan Prime (ASABUR)
+http://103.175.73.12:8080/live/345/345_0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Indian",Manoranjan Grend (ASABUR)
+http://103.175.73.12:8080/live/19/19_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",BOLLYWOOD PRIME (ASABUR)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Bollywood HD (ASABUR)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary",Discovery Bangla (ASABUR)
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Documentary",Nat Geo HD (ASABUR)
+http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Documentary",Nat Geo HD (ASABUR)
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",BBC Earth (ASABUR)
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",BBC Earth (ASABUR)
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Documentary",CGTN Documentary (ASABUR)
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Wild Earth (ASABUR)
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Documentary",Colors Infinity HD (ASABUR)
+http://103.229.254.25:7001/play/a0du/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Documentary",History TV 18 (ASABUR)
+http://103.229.254.25:7001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP GB (ASABUR)
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" group-title="Documentary",Travel XP English NL (ASABUR)
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP English EU (ASABUR)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP English NZ (ASABUR)
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP English SE (ASABUR)
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Food Food (ASABUR)
+http://103.175.73.12:8080/live/143/143_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",CGTN Docment (ASABUR)
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discover Pakistan TV (ASABUR)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="h" group-title="Kids",Tom & Jarry (ASABUR)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png" group-title="Kids",Sony Yay (ASABUR)
+http://103.182.170.32:8888/play/a04m
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="Kids",Nick JR (ASABUR)
+http://103.182.170.32:8888/play/a02q
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="Kids",Zoo Moo (ASABUR)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png" group-title="Movies",Star Movies (ASABUR)
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Lotus (ASABUR)
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Movies",Action Hollywood Movies (ASABUR)
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",YRF Music HD (ASABUR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Hindi Hits HD (ASABUR)
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png" group-title="Indian",9XM (ASABUR)
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",B4U Music (ASABUR)
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Indian",E24 (ASABUR)
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",8XM (ASABUR)
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Show Box (ASABUR)
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Indian",Music India (ASABUR)
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png" group-title="News",Aljazeera (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png" group-title="News",BBC World (ASABUR)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 tvg-logo="" group-title="News",CGTN News (ASABUR)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="News",France 24 (ASABUR)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Sky News (ASABUR)
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",NHK World (ASABUR)
+http://103.175.73.12:8080/live/417/417_0.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE0MGVkOTEtYTQzMC00ZGQ5LWEzN2ItZGNkMTgzOTg3MDI2XkEyXkFqcGdeQXVyMTMyMTM0Mzcz._V1_FMjpg_UX1000_.jpg" group-title="Movies",Tofan (ASABUR)
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="News",Star News (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Live",Islamic TV (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Live",Channel 9 HD (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="Movies",Uniques HD (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix HD (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="Movies",Screem (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="Sports",Sports Legends (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-title="Kids",BuddyStar HD (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" group-title="Live",Luxel HD (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" group-title="Kids",Joy (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" group-title="Kids",Funny Junior HD (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="Movies",Crimes (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="Movies",True Stories (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies",Intelligence (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="Sports",Sports Range (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="Sports",Thunder Er (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="Sports",Fighters (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="Kids",Smarty (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-title="Kids",Lucky Family (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Kids",Kids Stars (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png" group-title="Music",Party Universe (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Live",Al Quran (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" group-title="Kids",Nikki (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="Movies",Originals (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="Sports",Crazy Ex (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Live",Delicious (ASABUR)
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png" group-title="Live",Program Promo (ASABUR)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+# Source: SRC-ID:8a0a955eed047000f93213bc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",ZB Cartoon (ASABUR)
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+# Source: SRC-ID:eb25061146813829500ee806
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Live",Football World Cup 2026 (ASABUR)
+http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (ASABUR)
+http://145.239.5.177/559/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="Bangla",BTV Chattogram (ASABUR)
+https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="Bangla",BTV Sangsad (ASABUR)
+https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU" group-title="Bangla",BTV News (ASABUR)
+https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="Bangla",RTV (ASABUR)
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="Bangla",Asian TV (ASABUR)
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png" group-title="Bangla",Bangla TV (ASABUR)
+https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3e9e2737e35147900c0f4add619ead6
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",ZB Cinema (ASABUR)
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Gopal Bhar TV (ASABUR)
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Motu Patlu (ASABUR)
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Tom & Jerry TV (ASABUR)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Bantul The Great (ASABUR)
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Doraemon TV (ASABUR)
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Oggy and the Cockroaches (ASABUR)
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live",Mr Bean Animated (ASABUR)
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indian",Hinde Movies 3 (ASABUR)
+https://vods2.aynaott.com/hindimovies/index.m3u8
