@@ -2,6 +2,10 @@
 
 # Collected By Asabur
 
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FIFA World Cup 2026",টফি (আছাবুর)
+https://cdn-tt.pages.dev/ch5.m3u8
+
 #EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka (ASABUR)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
